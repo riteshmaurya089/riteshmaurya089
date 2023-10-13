@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **riteshmaurya222201@gmail.com**
  
-- 👨‍💻 Projects available at https://riteshmaurya089.github.io/
+- 👨‍💻 Projects available at [https://riteshmaurya089.github.io/](https://riteshmauryaportfolio.netlify.app/)
 
 
 
