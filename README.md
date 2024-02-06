@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nissharma&label=Profile%20views&color=0e75b6&style=flat" alt="riteshmaurya089" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **MERN Stack Web Development**
 
-- 💬 Ask me about **ReactJS Javascript Express**
+- 💬 Ask me about **React, Node JS, JavaScript, HTML, CSS, Data Structure Algorithm**
 
 - 📫 How to reach me **riteshmaurya222201@gmail.com**
  
