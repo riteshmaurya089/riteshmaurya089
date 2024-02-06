@@ -1,7 +1,8 @@
  
 <div align="center">
- ![Image](https://showmecourses.com/wp-content/uploads/2021/10/web-development.webp){:height="300px" width="auto"}
+  <img src="https://showmecourses.com/wp-content/uploads/2021/10/web-development.webp"{:height="300px" width="auto"}>
 </div>
+
 
 <h1 align="center">Hi 👋, I'm Ritesh Maurya</h1>
 <h3 align="center">A passionate full stack web developer</h3>
