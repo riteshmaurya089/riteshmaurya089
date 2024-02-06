@@ -1,6 +1,6 @@
  
 <div align="center">
-  <img src="https://showmecourses.com/wp-content/uploads/2021/10/web-development.webp"{:height="300px" width="auto"}>
+  <img src="https://showmecourses.com/wp-content/uploads/2021/10/web-development.webp"{:height="100px" width="auto"}>
 </div>
 
 
