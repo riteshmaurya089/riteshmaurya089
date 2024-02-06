@@ -1,6 +1,6 @@
  
 <div align="center">
- <img src="https://showmecourses.com/wp-content/uploads/2021/10/web-development.webp">
+ <img src="https://showmecourses.com/wp-content/uploads/2021/10/web-development.webp"style="height: 50%;">
 </div>
 
 <h1 align="center">Hi 👋, I'm Ritesh Maurya</h1>
