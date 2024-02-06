@@ -81,8 +81,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riteshmaurya089&show_icons=true&locale=en" alt="riteshmaurya089" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riteshmaurya089&" alt="riteshmaurya089" /></p>
-<h1 align="center"> <img  src="https://www.bing.com/th/id/OGC.ad4d6bb7ca6d528557d4d6ab2020665f?pid=1.7&rurl=https%3a%2f%2fs3.amazonaws.com%2ffiles.qrz.com%2fw%2ff4bew%2fThankyou.gif&ehk=%2bQV0pyP5%2bD0%2fIFrcOrvZO1%2fySx0LKI09TMkHKrT6cis%3d" />
-</h1>
+
 
 
 
