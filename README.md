@@ -1,5 +1,5 @@
  <div align="center">
-  <img src="[https://showmecourses.com/wp-content/uploads/2021/10/web-development.webp](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fcoding%2F&psig=AOvVaw1ps4fTGFGh5mDJ-oSuptCH&ust=1741431808071000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDW0Zvp94sDFQAAAAAdAAAAABAE)" height="300" width="1200">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fcoding%2F&psig=AOvVaw1ps4fTGFGh5mDJ-oSuptCH&ust=1741431808071000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDW0Zvp94sDFQAAAAAdAAAAABAE" height="300" width="1200">
 </div>
 <h1 align="center">Hi 👋, I'm Ritesh Maurya</h1>
 <h3 align="center">A passionate full stack web developer</h3>
